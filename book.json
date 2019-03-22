@@ -1,0 +1,8 @@
+{
+    "plugins": [
+		"splitter",
+		"tbfed-pagefooter",
+		"expandable-chapters",
+		"anchor-navigation-ex"
+	]
+}
